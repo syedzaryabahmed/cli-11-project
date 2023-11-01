@@ -1,0 +1,29 @@
+{
+  "name": "",
+  "version": "1.0.6",
+  "description": "made by syed zaryab ahmed ",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "simple-atm": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "zaryab",
+  "license": "ISC",
+  "dependencies": {
+    "@raza-aslam/adventure-game": "^1.0.2",
+    "@syedzaryabahmed/number-guessing-game": "^1.0.5",
+    "@syedzaryabahmed/simple-atm": "^1.0.6",
+    "@types/chalk-animation": "^1.6.1",
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.2.10"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.1",
+    "@types/inquirer": "^9.0.3"
+  }
+}

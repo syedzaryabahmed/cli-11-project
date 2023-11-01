@@ -1,0 +1,25 @@
+{
+  "name": "project-adventure-game-07",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "adventure-game-07": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.6.3",
+    "inquirer": "^9.2.11",
+    "node": "^20.6.0",
+    "type": "^2.7.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}

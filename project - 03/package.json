@@ -1,0 +1,28 @@
+{
+  "name": "@syedzaryabahmed/simple-todo-list",
+  "version": "1.0.4",
+  "description": "Simple todo-game",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    
+    "simple-todo-list": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "zaryab",
+  "license": "ISC",
+  "dependencies": {
+    "@syedzaryabahmed/simple-todo-list-02": "^1.0.3",
+    "@types/chalk-animation": "^1.6.1",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.1",
+
+    "@types/inquirer": "^9.0.3"
+  }
+}

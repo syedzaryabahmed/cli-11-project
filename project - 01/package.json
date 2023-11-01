@@ -1,0 +1,27 @@
+{
+  "name": "@syedzaryabahmed/number-guessing-game",
+  "version": "1.0.5",
+  "description": "this is a simple number ",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "number-guessing-game": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "zaryab",
+  "license": "ISC",
+  "dependencies": {
+    "@syedzaryabahmed/number-guessing-game": "^1.0.5",
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.1.4",
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.1",
+    "@types/inquirer": "^9.0.3"
+  }
+}
