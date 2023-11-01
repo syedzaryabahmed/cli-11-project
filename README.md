@@ -1,7 +1,6 @@
 # cli-11-project
-it is the panaverse DAO.node projects and it is very usefull for all developer's.
-And it is good project and perfect for all and i am thankful for all our teacher's to teach me .
-and there is total 11 project's.
+And it is good project and perfect for all and i am thankful for all our teacher's to teach me.
+And there is total 11 project's.
 1.CLI CALCULATOR.
 2.NUMBER GUESSING GAME.
 3.ATM.
